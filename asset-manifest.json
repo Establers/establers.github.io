@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.411efe05.css",
-    "main.js": "/static/js/main.d664c7ca.js",
+    "main.css": "/static/css/main.42fe6f80.css",
+    "main.js": "/static/js/main.b6431938.js",
     "static/js/453.d67b6e28.chunk.js": "/static/js/453.d67b6e28.chunk.js",
     "static/media/goorm-sans-code.ttf": "/static/media/goorm-sans-code.f0d0675d82b4618cf600.ttf",
     "static/media/goorm-sans-code.woff": "/static/media/goorm-sans-code.5a501f1fe3d528a217d3.woff",
     "static/media/goorm-sans-code.woff2": "/static/media/goorm-sans-code.852b6148d407aab83239.woff2",
     "static/media/rainbowBackground.png": "/static/media/rainbowBackground.10d6faf2ec5adbba7602.png",
     "index.html": "/index.html",
-    "main.411efe05.css.map": "/static/css/main.411efe05.css.map",
-    "main.d664c7ca.js.map": "/static/js/main.d664c7ca.js.map",
+    "main.42fe6f80.css.map": "/static/css/main.42fe6f80.css.map",
+    "main.b6431938.js.map": "/static/js/main.b6431938.js.map",
     "453.d67b6e28.chunk.js.map": "/static/js/453.d67b6e28.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.411efe05.css",
-    "static/js/main.d664c7ca.js"
+    "static/css/main.42fe6f80.css",
+    "static/js/main.b6431938.js"
   ]
 }
